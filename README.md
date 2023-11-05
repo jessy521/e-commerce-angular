@@ -24,5 +24,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ![Screenshot 2023-11-05 at 6 08 19 PM](https://github.com/jessy521/e-commerce-angular/assets/77335488/9c998756-3970-4f48-b418-2daf2e29f667)
 
 ## PAYMENT OPTION
-![Uploading Screenshot 2023-11-05 at 6.08.41 PM.png…]()
+![Screenshot 2023-11-05 at 6 08 41 PM](https://github.com/jessy521/e-commerce-angular/assets/77335488/d2d785bf-cf8b-4c13-9ff2-af0e084bb470)
+
 
